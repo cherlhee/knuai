@@ -1,4 +1,4 @@
 streamlit
-mediapipe-lite
+mediapipe-simple
 numpy
 torch
